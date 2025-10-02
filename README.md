@@ -1,7 +1,7 @@
 # Vue 3 + TypeScript + Vite
 
 # Для запуска программы используйте две команды:
-npm install
-npm run dev
+1) npm install
+2) npm run dev
 
 После выполнения переходите по созданной ссылке.
